@@ -1,0 +1,11 @@
+E:\css\CS2\steamcmd\steamapps\common\cssharp\chajian\CounterStrikeSharp\counterstrikesharp\examples\HanWeaponSkinSwitch\obj\Debug\net8.0\HanWeaponSkinSwitch.csproj.AssemblyReference.cache
+E:\css\CS2\steamcmd\steamapps\common\cssharp\chajian\CounterStrikeSharp\counterstrikesharp\examples\HanWeaponSkinSwitch\obj\Debug\net8.0\HanWeaponSkinSwitch.GeneratedMSBuildEditorConfig.editorconfig
+E:\css\CS2\steamcmd\steamapps\common\cssharp\chajian\CounterStrikeSharp\counterstrikesharp\examples\HanWeaponSkinSwitch\obj\Debug\net8.0\HanWeaponSkinSwitch.csproj.CoreCompileInputs.cache
+E:\css\CS2\steamcmd\steamapps\common\cssharp\chajian\CounterStrikeSharp\counterstrikesharp\examples\HanWeaponSkinSwitch\obj\Debug\net8.0\HanWeaponSkinSwitch.sourcelink.json
+E:\css\CS2\steamcmd\steamapps\common\cssharp\chajian\CounterStrikeSharp\counterstrikesharp\examples\HanWeaponSkinSwitch\bin\Debug\net8.0\HanWeaponSkinSwitch.deps.json
+E:\css\CS2\steamcmd\steamapps\common\cssharp\chajian\CounterStrikeSharp\counterstrikesharp\examples\HanWeaponSkinSwitch\bin\Debug\net8.0\HanWeaponSkinSwitch.dll
+E:\css\CS2\steamcmd\steamapps\common\cssharp\chajian\CounterStrikeSharp\counterstrikesharp\examples\HanWeaponSkinSwitch\bin\Debug\net8.0\HanWeaponSkinSwitch.pdb
+E:\css\CS2\steamcmd\steamapps\common\cssharp\chajian\CounterStrikeSharp\counterstrikesharp\examples\HanWeaponSkinSwitch\obj\Debug\net8.0\HanWeaponSkinSwitch.dll
+E:\css\CS2\steamcmd\steamapps\common\cssharp\chajian\CounterStrikeSharp\counterstrikesharp\examples\HanWeaponSkinSwitch\obj\Debug\net8.0\refint\HanWeaponSkinSwitch.dll
+E:\css\CS2\steamcmd\steamapps\common\cssharp\chajian\CounterStrikeSharp\counterstrikesharp\examples\HanWeaponSkinSwitch\obj\Debug\net8.0\HanWeaponSkinSwitch.pdb
+E:\css\CS2\steamcmd\steamapps\common\cssharp\chajian\CounterStrikeSharp\counterstrikesharp\examples\HanWeaponSkinSwitch\obj\Debug\net8.0\ref\HanWeaponSkinSwitch.dll
